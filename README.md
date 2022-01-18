@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @NekuSaga
-- 👀 I'm interested in technologies, market information, policy and best methods of doing it all in one line or 1 button.
-- 🌱 I’m currently learning JavaScript...
-- 💞️ I'm looking to collaborate on ERP projects in the cloud
-- 📫 How to reach me: caio_bgalvao@hotmail.com
+## Oiii eu sou a Caio Galvão, futuro Full Stack Web Developer!
 
-<!---
-NekuSaga/NekuSaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/CaioBGalvao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBGalvao&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&layout=compact&langs_count=7&theme=nord"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  
+##
+ 
+<div> 
+  <a href="https://www.linkedin.com/in/caio-barbosa-galv%C3%A3o-b1720372/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
