@@ -1,4 +1,4 @@
-## Oiii eu sou a Caio Galvão, futuro Full Stack Web Developer!
+## Olá! Eu sou a Caio Galvão, futuro Full Stack Web Developer!
 
 <div align="center">
   <a href="https://github.com/CaioBGalvao">
