@@ -9,48 +9,48 @@
 
 ### Controle de versão
 
-<img align="center" alt="Caio-Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
-<img align="center" alt="Caio-GitHub" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
+<img align="center" alt="Logo do Git" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+<img align="center" alt="Logo do GitHub" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
 
 ### Front-End
 
-  <img align="center" alt="Caio-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Caio-React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="Caio-HTML5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Caio-CSS3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Caio-Redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Caio-Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="Logo do JavaScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Logo do React" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="Logo do HTML 5" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
+  <img align="center" alt="Logo do CSS 3" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+  <img align="center" alt="Logo do Redux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Logo do Jest" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 
 ### Back-End
 
-  <img align="center" alt="Caio-Ts" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Caio-Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
-  <img align="center" alt="Caio-Heroku" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
-  <img align="center" alt="Caio-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Caio-MongoDB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Caio-Node.JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
-  <img align="center" alt="Caio-Pyton" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Logo da TypeScript" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="Logo do Docker" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Logo do Heroku" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+  <img align="center" alt="Logo do MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img align="center" alt="Logo do MongoDB" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Logo do Node.JS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
+  <img align="center" alt="Logo do Pyton" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
   
  
 ### IDE
 
-  <img align="center" alt="Caio-VSCODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="Logo do VSCODE" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 
 ### OS
 
-  <img align="center" alt="Caio-Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Caio-Ubunto" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
-  <img align="center" alt="Caio-Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
+  <img align="center" alt="Logo do Linux" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Logo do Ubunto" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg">
+  <img align="center" alt="Logo do Windows" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 
 ### Comandos Shell  
 
-  <img align="center" alt="Caio-bash" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="Caio-MSDOS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
+  <img align="center" alt="Logo do bash" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="Logo do MSDOS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
 
 ### Gestão e Comunicação
 
-  <img align="center" alt="Caio-Trello" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
-  <img align="center" alt="Caio-Slack" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg">
+  <img align="center" alt="Logo do Trello" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg">
+  <img align="center" alt="Logo do Slack" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg">
 </div>
  
 ##
@@ -66,11 +66,11 @@
 ##
 
 <div>
-  <img align="center" alt="Caio-Trello" height="30" width="200" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
+  <img align="center" alt="Esse README.md foi feito usando Markdown" height="30" width="200" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg">
 </div>
 
 ##
 
 <div>
-  <img align="center" alt="Caio-Trello" height="30" width="120" src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=2592000">
+  <img align="center" alt="Contador de quantos Folows já foram feitos no perfil do CaioBGalvao" height="30" width="120" src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=2592000">
 </div>
