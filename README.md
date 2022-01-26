@@ -72,5 +72,5 @@
 ##
 
 <div>
-  <img align="center" alt="Contador de quantos Folows já foram feitos no perfil do CaioBGalvao" height="30" width="120" src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=25">
+  <img align="center" alt="Contador de quantos Folows já foram feitos no perfil do CaioBGalvao" height="30" width="120" src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=86400">
 </div>
