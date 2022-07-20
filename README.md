@@ -1,4 +1,4 @@
-# Olá! Eu sou o Caio Galvão, futuro Web Developer Full Stack.
+# Olá! Eu sou o Caio Galvão, futuro Web Developer Full Stack
 
 ## Estou estudando na [Trybe](https://www.betrybe.com/).
 <hr>
@@ -35,17 +35,12 @@
 >
 > ## Front-End 
 >
-  >>  ### Linguagens
-  >> <img alt="Logo do HTML 5" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  >> <img alt="Logo do CSS 3" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  >> <img alt="Logo do JavaScript" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  >>  
-  >> ### Frameworks
-  >> <img alt="Logo do Redux" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
-  >> <img alt="Logo do React" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
-  >>
-  >>  ### Testes Unitários
-  >> <img alt="Logo do Jest" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
+> <img alt="Logo do HTML 5" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+> <img alt="Logo do CSS 3" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+> <img alt="Logo do JavaScript" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+> <img alt="Logo do Redux" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
+> <img alt="Logo do React" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+> <img alt="Logo do Jest" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
 
 <hr>
 
@@ -55,45 +50,14 @@
 >
 > ## Back-End
 >
-  >> ### Containers
-  >> <img alt="Logo do Docker" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
-  >>
-  >> ### Banco de Dados
-  >> <img alt="Logo do MySQL" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
-  >> <img alt="Logo do MongoDB" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
-  >> 
-  >>
-  >> ### Plataformas de Aplicação
-  >> <img alt="Logo do Node.JS" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
-  >>
-  >> ### PaaS (Platform as a Service)
-  >> <img alt="Logo do Heroku" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
-  >>
-  >> ### Linguagens de programação
-  >> <img alt="Logo da TypeScript" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  >> <img alt="Logo do Pyton" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+> <img alt="Logo do Docker" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/>
+> <img alt="Logo do MySQL" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
+> <img alt="Logo do MongoDB" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"/>
+> <img alt="Logo do Node.JS" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"/>
+> <img alt="Logo do Heroku" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+> <img alt="Logo da TypeScript" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
+> <img alt="Logo do Pyton" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
-<hr>
-  
-> ## IDE
->
-> <img alt="Logo do VSCODE" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/>
-  
-<hr>
-
->## OS (Sistemas Operacionais)
-> 
-> <img alt="Logo do Ubunto" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg"/>
-> <img alt="Logo do Windows" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
-
-<hr>
-
-> ## Comandos Shell  
->
-> <img alt="Logo do bash" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
-> <img alt="Logo do MSDOS" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg"/>
-</div>
-  
 <hr>
 
 <div style="display: flex-inline">
@@ -115,3 +79,4 @@
 <div style="display: flex-inline">
   <img alt="Contador de quantos Folows já foram feitos no perfil do CaioBGalvao" height="30" width="130" src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=86400"/>
 </div>
+
