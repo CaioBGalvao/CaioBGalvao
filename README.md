@@ -1,4 +1,4 @@
-# Olá! Eu sou o Caio Galvão, futuro Web Developer Full Stack
+# Olá! Eu sou o Caio Galvão, futuro Web Developer Full Stack.
 
 ## Estou estudando na [Trybe](https://www.betrybe.com/).
 <hr>
