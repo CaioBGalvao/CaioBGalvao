@@ -1,6 +1,15 @@
 # Olá! Eu sou o Caio Galvão, futuro Web Developer Full Stack
 
 ## Estou estudando na [Trybe](https://www.betrybe.com/).
+
+<div style="display: flex-inline">
+  <a href="https://www.linkedin.com/in/CaioBGalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://twitter.com/Caio_BGalvao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
+  <a href="https://wa.me/5521998078393" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
+ <a href="https://t.me/CaioBG" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+ <a href="mailto:caio_bgalvao@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
+</div>
+  
 <hr>
 
 <div style="display: flex-inline">
@@ -58,16 +67,6 @@
 > <img alt="Logo da TypeScript" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 > <img alt="Logo do Pyton" style="height: 60px; width: 80px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
 
-<hr>
-
-<div style="display: flex-inline">
-  <a href="https://www.linkedin.com/in/CaioBGalvao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href="https://twitter.com/Caio_BGalvao" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"/></a>
-  <a href="https://wa.me/5521998078393" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"/></a>
- <a href="https://t.me/CaioBG" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
- <a href="mailto:caio_bgalvao@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"/></a>
-</div>
-  
 <hr>
 
 <div style="display: flex-inline">
