@@ -18,16 +18,14 @@
   
 ---
 
-<div style="display: flex; flex-flow: column wrap;">
-  <a align="center" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=pt-br&show_icons=true&theme=nord&include_all_commits=true&count_private=true" />
+    src="https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=pt-br&show_icons=true&theme=nord&include_all_commits=true" />
 </a>
 <a align="center" href="https://github.com/anuraghazra/convoychat">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&langs_count=7&theme=nord" />
-  </a>  
-</div>
+</a>  
 
 <div style="display: flex-inline"><br>
 
