@@ -73,11 +73,11 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 
 - 🌱 Estou praticando **TypeScript com POO.**
 
-- 👨‍💻 Meu objetivo é colaborar **com projetos me façam aprender e agreguem valor para a sociedade!**
+- 👨‍💻 Meu objetivo é colaborar **com projetos que me façam aprender e agreguem valor para a sociedade!**
 
 - 💬 Gosto de conversar sobre **Tecnologia, negócios, games e história!**
 
-- 📫 Me mande um e-mail: **caio_bgalvao@hotmail.com**
+- 📫 Envie um e-mail: **caio_bgalvao@hotmail.com**
 
 - 🏰 Arquiteturas e princípios: **[MSC](#msc-pt-br), POO, SOLID.**
 
