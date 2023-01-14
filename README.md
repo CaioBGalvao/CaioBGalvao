@@ -49,15 +49,8 @@
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=en&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=en&layout=compact&theme=transparent" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=pt-br&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&theme=transparent)]
 
 ###### MSC (en):
 Is an acronym for Model, Service and Controller. This architecture is didactic and we use it in Trybe's projects. Being Model the layer of requests to the database, Service the layer of business rules and Controller the layer that responds to the requests.
@@ -115,15 +108,8 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 
 ---
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=pt-br&show_icons=true&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&theme=transparent" />
-</a>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioBGalvao&locale=pt-br&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioBGalvao&locale=pt-br&layout=compact&theme=transparent)]
 
 ###### MSC (pt-br):
 É um acrônimo para Model, Service e Controller. Essa arquitetura é didática e a utilizamos nos projetos da Trybe. Sendo Model a camada de requisições à base de dados, Service a camada de regras de negócio e Controller a camada que responde às requisições.
