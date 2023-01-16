@@ -12,8 +12,8 @@
 - 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society!**
 
 - 💬 Let's talk about **Technology, business, games and history!**
-
-- 📫 How to reach me **caio_bgalvao@hotmail.com**
+ 
+- 📫 How to reach me [Contact Page](https://caiobgalvao.github.io/#/contact) or **caio_bgalvao@hotmail.com**
 
 - 🏰 Architectures and principles: **[MSC](#msc-en), OOP, SOLID.**
 
@@ -71,7 +71,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 
 - 💬 Gosto de conversar sobre **Tecnologia, negócios, games e história!**
 
-- 📫 Envie um e-mail: **caio_bgalvao@hotmail.com**
+- 📫 Envie um e-mail: [Página de contato](https://caiobgalvao.github.io/#/contact) or **caio_bgalvao@hotmail.com**
 
 - 🏰 Arquiteturas e princípios: **[MSC](#msc-pt-br), POO, SOLID.**
 
