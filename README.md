@@ -34,7 +34,7 @@
 - [X] Fundamentals - HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy with Heroku, SOLID, Chai, Mocha, Sinon, Type Script, OOP, MongoDB, Mongoose, CI/CD with GitHub Actions
-- [ ] Computer Science - Python, Pytest, OOP on Python, Network and security concepts, API with Python, Algorithms and Data Structure
+- [X] Computer Science - Python, Pytest, OOP on Python, Network and security concepts, API with Python, Algorithms and Data Structure
 
 ### Other skills
 
@@ -93,7 +93,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 - [X] Fundamentos - Linux, Git, HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy com Heroku, SOLID, Chai, Mocha, Sinon, Type Script, POO, MongoDB, Mongoose, CI/CD com GitHub Actions
-- [ ] Ciência da Computação - Python, Pytest, POO no Python, Rede e Conceitos de Segurança, API com Python, Algorítimos e Estrutura de dados
+- [X] Ciência da Computação - Python, Pytest, POO no Python, Rede e Conceitos de Segurança, API com Python, Algorítimos e Estrutura de dados
 
 ### Outras Habilidades
 
