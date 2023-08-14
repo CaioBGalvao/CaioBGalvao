@@ -3,11 +3,11 @@
 
 # Welcome! I'm Caio Galvão!
 ### A Fullstack Web Developer and Bachelor in Business Administration passionate about technology!
-#### I am currently studying at @Trybe
+#### I am currently working at @Tera-Telemedicina
 
 - 🔭 I’m currently working on **Fullstack Projects**
 
-- 🌱 I’m currently learning **TypeScript with OOP.**
+- 🌱 I’m currently learning **AWS Technologies**
 
 - 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society!**
 
@@ -15,7 +15,7 @@
  
 - 📫 How to reach me [Contact Page](https://caiobgalvao.github.io/#/contact) or **caio_bgalvao@hotmail.com**
 
-- 🏰 Architectures and principles: **[MSC](#msc-en), OOP, SOLID.**
+- 🏰 Architectures and principles: **[MSC](#msc-en), MVC, OOP, SOLID.**
 
 ### Connect with me:
 
@@ -26,8 +26,6 @@
   <a href="https://wa.me/5521998078393" target="_blank"><img
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       style="height: 28px; width: 105px;" /></a>
-  <a href="https://t.me/CaioBG" target="_blank"><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="height: 28px; width: 105px;"></a>
 </div>
 
 ### Modules Attended at @Trybe
@@ -61,17 +59,17 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 
 # Bem vindo! Eu sou Caio Galvão!
 ### Sou Desenvolvedor Web Fullstack e Bacharel em Administração de Empresas apaixonado por tecnologia!
-#### Estou atualmente estudando na @Trybe
+#### Trabalhando na @Tera-Telemedicina
 
 - 🔭 Atualmente estou trabalhando em **Projetos Fullstack**
 
-- 🌱 Estou praticando **TypeScript com POO.**
+- 🌱 Estou estudando sobre **Técnologias da AWS**
 
 - 👨‍💻 Meu objetivo é colaborar **com projetos que me façam aprender e agreguem valor para a sociedade!**
 
 - 💬 Gosto de conversar sobre **Tecnologia, negócios, games e história!**
 
-- 📫 Envie um e-mail: [Página de contato](https://caiobgalvao.github.io/#/contact) or **caio_bgalvao@hotmail.com**
+- 📫 Envie um e-mail: [Página de contato](https://caiobgalvao.github.io/#/contact) ou **caio_bgalvao@hotmail.com**
 
 - 🏰 Arquiteturas e princípios: **[MSC](#msc-pt-br), POO, SOLID.**
 
@@ -85,8 +83,6 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
   <a href="https://wa.me/5521998078393" target="_blank"><img
       src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
       style="height: 28px; width: 105px;" /></a>
-  <a href="https://t.me/CaioBG" target="_blank"><img
-      src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" style="height: 28px; width: 105px;"></a>
 </div>
 
 ### Modulos concluidos na @Trybe
