@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **Fullstack Projects**
 
-- 🌱 I’m currently learning **AWS Technologies**
+- 🌱 I’m currently learning **AWS Technologies, PHP, Laravel, Inertia.js, React**
 
 - 👨‍💻 I’m looking to collaborate on **Projects that helps me learn and contribute for society!**
 
 - 💬 Let's talk about **Technology, business, games and history!**
  
-- 📫 How to reach me [Contact Page](https://caiobgalvao.github.io/#/contact) or **caio_bgalvao@hotmail.com**
+- 📫 How to reach me **caio_bgalvao@hotmail.com**
 
 - 🏰 Architectures and principles: **[MSC](#msc-en), MVC, OOP, SOLID.**
 
@@ -28,7 +28,7 @@
       style="height: 28px; width: 105px;" /></a>
 </div>
 
-### Modules Attended at @betrybe
+### Modules Attended at [Trybe](https://github.com/betrybe)
 - [X] Fundamentals - HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy with Heroku, SOLID, Chai, Mocha, Sinon, Type Script, OOP, MongoDB, Mongoose, CI/CD with GitHub Actions
@@ -63,13 +63,13 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 
 - 🔭 Atualmente estou trabalhando em **Projetos Fullstack**
 
-- 🌱 Estou estudando sobre **Técnologias da AWS**
+- 🌱 Estou estudando sobre **Técnologias da AWS, PHP, Laravel, Inertia.js, React**
 
 - 👨‍💻 Meu objetivo é colaborar **com projetos que me façam aprender e agreguem valor para a sociedade!**
 
 - 💬 Gosto de conversar sobre **Tecnologia, negócios, games e história!**
 
-- 📫 Envie um e-mail: [Página de contato](https://caiobgalvao.github.io/#/contact) ou **caio_bgalvao@hotmail.com**
+- 📫 Envie um e-mail: **caio_bgalvao@hotmail.com**
 
 - 🏰 Arquiteturas e princípios: **[MSC](#msc-pt-br), POO, SOLID.**
 
@@ -85,7 +85,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
       style="height: 28px; width: 105px;" /></a>
 </div>
 
-### Modulos concluidos na @betrybe
+### Modulos concluidos na [Trybe](https://github.com/betrybe)
 - [X] Fundamentos - Linux, Git, HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy com Heroku, SOLID, Chai, Mocha, Sinon, Type Script, POO, MongoDB, Mongoose, CI/CD com GitHub Actions
