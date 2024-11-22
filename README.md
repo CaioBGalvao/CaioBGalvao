@@ -123,3 +123,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
   <img alt="Contador de quantos Folows já foram feitos no perfil do CaioBGalvao" style="height: 30px; width: 130px"
     src="https://img.shields.io/github/followers/CaioBGalvao.svg?style=social&label=Follow&maxAge=86400" />
 </div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=CaioBGalvao&label=Profile%20Views&color=1&icon=2&pretty=false)](https://visitcount.itsvg.in)
