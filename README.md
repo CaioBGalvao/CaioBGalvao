@@ -28,7 +28,7 @@
       style="height: 28px; width: 105px;" /></a>
 </div>
 
-### Modules Attended at @Trybe
+### Modules Attended at @betrybe
 - [X] Fundamentals - HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy with Heroku, SOLID, Chai, Mocha, Sinon, Type Script, OOP, MongoDB, Mongoose, CI/CD with GitHub Actions
@@ -85,7 +85,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
       style="height: 28px; width: 105px;" /></a>
 </div>
 
-### Modulos concluidos na @Trybe
+### Modulos concluidos na @betrybe
 - [X] Fundamentos - Linux, Git, HTML 5, CSS 3, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy com Heroku, SOLID, Chai, Mocha, Sinon, Type Script, POO, MongoDB, Mongoose, CI/CD com GitHub Actions
