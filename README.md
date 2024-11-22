@@ -29,7 +29,7 @@
 </div>
 
 ### Modules Attended at [Trybe](https://github.com/betrybe)
-- [X] Fundamentals - HTML 5, CSS 3, Java Script ES6, JEST
+- [X] Fundamentals - HTML 5, CSS, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy with Heroku, SOLID, Chai, Mocha, Sinon, Type Script, OOP, MongoDB, Mongoose, CI/CD with GitHub Actions
 - [X] Computer Science - Python, Pytest, OOP on Python, Network and security concepts, API with Python, Algorithms and Data Structure
@@ -86,7 +86,7 @@ Is an acronym for Model, Service and Controller. This architecture is didactic a
 </div>
 
 ### Modulos concluidos na [Trybe](https://github.com/betrybe)
-- [X] Fundamentos - Linux, Git, HTML 5, CSS 3, Java Script ES6, JEST
+- [X] Fundamentos - Linux, Git, HTML 5, CSS, Java Script ES6, JEST
 - [X] Front-end - React, Redux, RTL, React Hooks, Context API
 - [X] Back-End - Docker, MySQL, Express.Js, Sequelize, Deploy com Heroku, SOLID, Chai, Mocha, Sinon, Type Script, POO, MongoDB, Mongoose, CI/CD com GitHub Actions
 - [X] Ciência da Computação - Python, Pytest, POO no Python, Rede e Conceitos de Segurança, API com Python, Algorítimos e Estrutura de dados
